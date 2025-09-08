@@ -1,1 +1,2 @@
-INitial Readme.txt
+Create an app that will allow its usert to take pictures of clothes in their wardrobe and upload. Once uploaded, the app will generate outfits based on these clothes and suggest more clothes to buy for cheap. 
+Also make it like a social media platform where users can upload posts of their clothes and outfits and share with their friends. The app should work with both male and female and non binary clothes. The app should also be be context sensitive while suggesting clothes. It should include age of the user, gender, and social setting of the outfit - eg class, party, formal occasion. 
